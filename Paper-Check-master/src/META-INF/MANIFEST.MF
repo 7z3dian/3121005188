@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.suu.main.PlagiarismCheck
+Class-Path: hanlp-portable-1.5.4.jar
+

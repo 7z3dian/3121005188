@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Plagiarism_Check">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Paper-Check-master/release/Plagiarism_Check.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
